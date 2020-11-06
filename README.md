@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello World, I am Jellince Paul
 
-<!--
-**JellincePaul/JellincePaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergrad student,enthusiastic and passionate developer with interests in IoT, Android Application Development and Java.
 
-Here are some ideas to get you started:
+Love learning new things and contributing my level best.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+ * IoT - Arduino
+ * Java Coding
+ * Android Studio
+ * C++
+ * XML
+ 
+ ## Contact
+ [LinkedIn](https://www.linkedin.com/in/jellince-paul-363235172/)
+ 
+ [Website](https://www.sites.google.com/view/agent-p)
+ 

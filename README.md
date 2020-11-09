@@ -4,6 +4,8 @@ I am an undergrad student,enthusiastic and passionate developer with interests i
 
 Love learning new things and contributing my level best.
 
+Started learning new language Python
+
 ## Skills
  * IoT - Arduino
  * Java Coding

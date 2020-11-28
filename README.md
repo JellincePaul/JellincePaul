@@ -12,7 +12,8 @@ Started learning new language Python
  * Android Studio
  * C++
  * XML
-
+ 
+ 
  ## Contact
  [LinkedIn](https://www.linkedin.com/in/jellince-paul-363235172/)
  

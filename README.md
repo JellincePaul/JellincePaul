@@ -1,23 +1,24 @@
 ## Hello World, I am Jellince Paul
 
-I am an undergrad student,enthusiastic and passionate developer with interests in IoT, Android Application Development and Java.
+With over 4 years of work experience in the IT industry, troubleshooting and managing the internalapplications of Google in supply chain management domain. I also possess a strong foundation in SQL, Python, ETL processes, cloud platforms and creating visualization dashboards.
 
-Love learning new things and contributing my level best.
-
-Currently working on Android Application and, its open for contribution. Intrested ping me!
+Seeking to leverage my analytical skills and technical expertise in data engineering to desgin scalable and efficient data pipelines.
 
 ## Skills
- * IoT - Arduino
- * Java Coding
- * Android Studio
- * C++
- * XML
+ * Databases : MySQL
+ * Programming Languages : Python, SQL
+ * Data Warehouses : AWS Redshift
+ * Ticketing tool : Buganizer(Google Issue Tracker)
+ * Distributed Computation Frameworks : Apache Hadoop, Apache Spark
+ * Dashboarding Tools : Looker studio, Plx scripts
+ * Workflow management : Apache Airflow, AWS Step Function
+ * AWS Services : S3, Lamda, Cloudwatch, DynamoDB, Redshift, Athena, Glue, SNS, SQS, Kinesis, Step Function
  
  
  ## Contact
- [LinkedIn](https://www.linkedin.com/in/jellince-paul-363235172/)
+ [LinkedIn](https://www.linkedin.com/in/jellince-paul-j-m-a22172364/)
  
- [Website](https://www.sites.google.com/view/agent-p)
+ [Website](https://sites.google.com/view/dataengineernoob/home)
  
  [Mail : jellince.paul.jm@gmail.com](https://www.gmail.com)
  

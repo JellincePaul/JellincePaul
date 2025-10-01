@@ -5,7 +5,7 @@ With over 4 years of work experience in the IT industry, troubleshooting and man
 Seeking to leverage my analytical skills and technical expertise in data engineering to desgin scalable and efficient data pipelines.
 
 ## Skills
- * Databases : MySQL
+ * RDBMS : MySQL
  * Programming Languages : Python, SQL
  * Data Warehouses : AWS Redshift
  * Ticketing tool : Buganizer(Google Issue Tracker)

@@ -16,6 +16,8 @@ Seeking to leverage my analytical skills and technical expertise in data enginee
  
  
  ## Contact
+ [Resume](https://github.com/JellincePaul/Resume/blob/main/Jellince%20Paul%20Jeeva%20Manoharan%20%20Resume.pdf)
+ 
  [LinkedIn](https://www.linkedin.com/in/jellince-paul-j-m-a22172364/)
  
  [Website](https://sites.google.com/view/dataengineernoob/home)

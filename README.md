@@ -16,7 +16,7 @@ Seeking to utilize strong analytical and technical skills to design reliable, ef
  
  
  ## Contact
- [Resume](https://github.com/JellincePaul/Resume/blob/main/Jellince%20Paul%20Jeeva%20Manoharan%20%20Resume.pdf)
+ [Resume](https://github.com/JellincePaul/Resume_data_engineer/blob/main/Jellince%20Paul%20Jeeva%20Manoharan%20-%20DE%20%20Resume.pdf)
  
  [LinkedIn](https://www.linkedin.com/in/jellince-paul-j-m-a22172364/)
  
